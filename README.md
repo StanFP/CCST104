@@ -70,15 +70,15 @@ characteristics for the year 2023. Here are some key columns in the
 **dataset:**
 * pollution_2023: Pollution figures for the year 2023.
 * pollution_growth_Rate: The growth rate of pollution from the previous year.
-*country_name: Name of the country.
-*country_region: The region where the country is locat`ed.
-*united_nation_Member: Whether the country is a member of the United Nations.
-*country_land_Area_in_Km: The land area of the country in square kilometers.
-*pollution_density_in_km: Pollution density per square kilometer.
-*pollution_density_per_Mile: Pollution density per square mile.
-*share_borders: Countries with which the country shares its borders.
-*pollution_Rank: The rank of the country based on its pollution.
-*mostPollutedCountries_particlePollution: Particle pollution levels in the country.
+* country_name: Name of the country.
+* country_region: The region where the country is locat`ed.
+* united_nation_Member: Whether the country is a member of the United Nations.
+* country_land_Area_in_Km: The land area of the country in square kilometers.
+* pollution_density_in_km: Pollution density per square kilometer.
+* pollution_density_per_Mile: Pollution density per square mile.
+* share_borders: Countries with which the country shares its borders.
+* pollution_Rank: The rank of the country based on its pollution.
+* mostPollutedCountries_particlePollution: Particle pollution levels in the country.
 
 ---
 
