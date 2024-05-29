@@ -11,6 +11,7 @@ Compilation of Advanced Machine Learning Activities (CSST104)
 3. <a href="https://github.com/StanFP/CCST104/blob/main/EXER7/README.md">EXER7-Netflix Userbase Analysis</a>
 4. <a href="https://github.com/StanFP/CCST104/blob/main/EXER8/README.md">EXER8-Pollution Data Time Series Analysis Using ARIMA</a>
 5. <a href="https://github.com/StanFP/CCST104/blob/main/MIDTERM/README.md">MIDTERMS-Forecasting with Arima Model</a>
+6. <a href="https://github.com/StanFP/CCST104/blob/main/FINALS/README.md">FINALS-PizzaSales Analysis</a>
 
 
 # 1. EXER5-LinearRegression
@@ -96,3 +97,13 @@ for the next 12 months based on historical data.
 * Description: Contains information about the google play store.
 * Use Case: Ideal for time series analysis to predict continuous outcomes like the downloads based
 on various features (e.g., ratings, reviews, installs).
+
+
+# 6. FINALS-PizzaSales Analysis
+**Objective:**
+To evaluate your understanding and ability to apply data analysis and visualization techniques to a real-
+world dataset. This assessment will test your proficiency in handling data, using various libraries, applying
+statistical methods, and presenting insights through visualizations.
+**Task Description:**
+You are provided with a dataset containing user interactions with a digital platform over the last year. The
+dataset includes user demographics, device usage, and subscription details.
